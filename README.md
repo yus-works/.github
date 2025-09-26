@@ -23,7 +23,7 @@ aggregates them all in one place. Clean, fast, and actually useful.
 A Neovim plugin that autocompletes commit scopes by learning from your repo's
 history. Makes conventional commits less annoying.
 
-### [HTTP from TCP](https://github.com/yus-works/http-from-tcp)
+### [HTTP from TCP](https://github.com/yus-works/tcp-to-http)
 Built an HTTP server from scratch using raw TCP sockets. A fun deep dive into
 how the web actually works under the hood.
 
