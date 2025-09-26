@@ -10,20 +10,20 @@ Here's what I've been working on:
 
 ## Projects
 
-### [Yus.rs](./yus)
+### [Yus.rs](https://github.com/yus-works/yus)
 My personal site built entirely in Rust (including the frontend!). Features
 WebGPU/WebGL2 graphics demos and runs WebAssembly in the browser. No JavaScript
 needed.
 
-### [Job Watcher](./job-watcher)
+### [Job Watcher](https://github.com/yus-works/job-watcher)
 Got tired of checking multiple job boards, so I built a Go service that
 aggregates them all in one place. Clean, fast, and actually useful.
 
-### [csc.nvim](./csc-nvim)
+### [csc.nvim](https://github.com/yus-works/csc-nvim)
 A Neovim plugin that autocompletes commit scopes by learning from your repo's
 history. Makes conventional commits less annoying.
 
-### [HTTP from TCP](./http-from-tcp)
+### [HTTP from TCP](https://github.com/yus-works/http-from-tcp)
 Built an HTTP server from scratch using raw TCP sockets. A fun deep dive into
 how the web actually works under the hood.
 
