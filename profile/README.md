@@ -4,6 +4,8 @@ I'm a software engineer who enjoys building tools and exploring interesting
 tech problems. This is where I keep my notable projects, the ones I'm proud of
 and actively maintain.
 
+**Contact:** [teodor@yus.rs](mailto:teodor@yus.rs) | [LinkedIn](https://linkedin.com/in/teodord25)
+
 You can find my other experiments and contributions on my [personal GitHub](https://github.com/teodord25).
 
 Here's what I've been working on:
